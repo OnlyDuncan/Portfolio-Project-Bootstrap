@@ -11,9 +11,14 @@
   "repository": {
     "type": "git"
   },
-  "author": "",
+  "author": "Duncan Payne and Matthew Coe",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
   }
 }
