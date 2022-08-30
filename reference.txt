@@ -1,19 +1,19 @@
 Page Content Reference:
 
-1. Entry Page: 
+1. Home Page: 
 Main Text: Duncan Payne
 Secondary Text: Multi-Media Artist
-Nav Menu: Home, Portfolio, About Me, Contact Me
+Nav Menu: Home, News, Portfolio, About Me, Contact Me
 Carousel Images:
 
-2. Home Page:
-Nav Menu: Home, Portfolio, About Me, Contact Me
+2. News Page:
+Nav Menu: Home, News, Portfolio, About Me, Contact Me
 Newest Piece Image: img/Grieving Hearts.jpeg
 Information on Newest Piece Text: Name: Grieving Hearts, Medium: Mixed Media on Canvas, Size: 4 feet x 3 feet, Year: 2022, Description: Painting that deals with themes of grief, and the forms it can take.
 Current Shows and Exhibitions Text: What: Ruminations Solo Show, Where: Studio Ink, 220 E Main St, Norman, OK, 73069, When: November 11th - December 5th, 2022
 
 3. Portfolio Page:
-Nav Menu: Home, Portfolio, About Me, Contact Me
+Nav Menu: Home, News, Portfolio, About Me, Contact Me
 Tabs: Traditional Paintings, Sculptures and Installation, Performance and Kinetic Art, Other
 Images In Traditional Paintings:
     img/Grieving Hearts.jpeg Modal Text: Name: Grieving Hearts, Medium: Mixed Media on Canvas, Size: 4 feet x 3 feet, Year: 2022, Description: Painting that deals with themes of grief, and the forms it can take.
@@ -51,11 +51,11 @@ Images in Other:
     img/The Telltale Heart.jpg Modal Text: Name: The Telltale Heart, Medium: Digital, Size: 20 inches x 16 inches, Year: 2016, Description: Digital piece inspired by the Poe story.
 
 4. About Me Page:
-Nav Menu: Home, Portfolio, About Me, Contact Me
+Nav Menu: Home, News, Portfolio, About Me, Contact Me
 Bio Text:
 CV Text:
 Artist Statement Text:
 
 5. Contact Me Page:
-Nav Menu: Home, Portfolio, About Me, Contact Me
+Nav Menu: Home, News, Portfolio, About Me, Contact Me
 
