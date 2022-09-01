@@ -8,16 +8,16 @@ Carousel Images:
 
 2. News Page:
 Nav Menu: Home, News, Portfolio, About Me, Contact Me
-Newest Piece Image: img/Grieving Hearts.jpeg
-Information on Newest Piece Text: Name: Grieving Hearts, Medium: Mixed Media on Canvas, Size: 4 feet x 3 feet, Year: 2022, Description: Painting that deals with themes of grief, and the forms it can take.
+Newest Piece Image: img/The Black Egg.jpeg
+Information on Newest Piece Text: Name: The Black Egg, Medium: Mixed Media, Ashes, on Watercolor Paper, Size: 22 inches x 16 inches, Year: 2022, Description: Abstract/Surreal painting related to depression and mental illness.
 Current Shows and Exhibitions Text: What: Ruminations Solo Show, Where: Studio Ink, 220 E Main St, Norman, OK, 73069, When: November 11th - December 5th, 2022
 
 3. Portfolio Page:
 Nav Menu: Home, News, Portfolio, About Me, Contact Me
 Tabs: Traditional Paintings, Sculptures and Installation, Performance and Kinetic Art, Other
 Images In Traditional Paintings:
-    img/Grieving Hearts.jpeg Modal Text: Name: Grieving Hearts, Medium: Mixed Media on Canvas, Size: 4 feet x 3 feet, Year: 2022, Description: Painting that deals with themes of grief, and the forms it can take.
     img/The Black Egg.jpeg Modal Text: Name: The Black Egg, Medium: Mixed Media, Ashes, on Watercolor Paper, Size: 22 inches x 16 inches, Year: 2022, Description: Abstract/Surreal painting related to depression and mental illness.
+    img/Grieving Hearts.jpeg Modal Text: Name: Grieving Hearts, Medium: Mixed Media on Canvas, Size: 4 feet x 3 feet, Year: 2022, Description: Painting that deals with themes of grief, and the forms it can take.
     img/The Punishment of Narcissus.jpeg Modal Text: Name: The Punishment of Narcissus, Medium: Mixed Media on Watercolor Paper, Size: 23.75 inches x 18 inches, Year: 2022, Description: Painting inspired by the Narcissus myth.
     img/Study of Goya's Saturn Devouring His Son.jpeg Modal Text: Name: Study of Goya's Saturn Devouring His Son, Medium: Mixed Media on Watercolor Paper, Size: 20" x 14", Year: 2022, Description: Painting inspired by Francisco Goya's piece.
     img/Floating in Blue.jpeg Modal Text: Name: Floating In Blue, Medium: Mixed Media on Canvas, Size: 13.75 inches x 10.75 inches, Year: 2022, Description: Self portrait experiment inspired by depression.
