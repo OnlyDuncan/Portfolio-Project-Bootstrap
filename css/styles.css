@@ -4,5 +4,20 @@
 }
 
 .navbar {
+    background-color: rgb(71, 58, 58);
     text-align: center;
+}
+
+h1, h2, h3 {
+    color: white;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-color: black;
+}
+
+body {
+    background-color: rgb(221, 224, 199);
 }
