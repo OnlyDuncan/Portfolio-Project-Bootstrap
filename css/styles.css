@@ -45,10 +45,10 @@ body {
 }
 
 .containerEntry {
-    position: absolute;
-    top: 45%;
-    bottom: 48%;
+    position: sticky;
+    top: 50%;
     opacity: 0.5;
+    z-index: 1;
 }
 
 li {
