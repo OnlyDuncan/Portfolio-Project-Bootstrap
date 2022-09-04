@@ -1,0 +1,60 @@
+.container {
+    background-color: black;
+    text-align: center;
+}
+
+/* .navbarContainer {
+    background-color: gray;
+} */
+
+/* .navbar {
+    background-color: gray;
+    text-align: center;
+} */
+
+/* .nav-item {
+    background-color: gray;
+} */
+
+h1, h2, h3 {
+    color: white;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-color: black;
+}
+
+body {
+    background-color: rgb(221, 224, 199);
+}
+
+.containerCarousel {
+    background-color: rgb(221, 224, 199);
+}
+
+.carousel-inner img {
+    width: 75%;
+    height: 50%;
+}
+
+#demo {
+    position: absolute;
+    z-index: -1;
+}
+
+.containerEntry {
+    position: fixed;
+    width: 100%;
+    left: 10%;
+    right: 10%;
+    top: 30%;
+    z-index: 1;
+    background-color: rgba(0,0,0,0);
+    .btn{
+        background-color: rgba(0,0,0,0.5);
+        margin-bottom: 5px;
+    }
+}
+
