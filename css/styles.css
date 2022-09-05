@@ -45,3 +45,10 @@ body {
   .containerEntry .btn {
     background-color: rgba(0, 0, 0, 0.5);
     margin-bottom: 5px; }
+
+h1, .entryHeader1 {
+  font-size: 75px; }
+
+h3, .entryHeader2 {
+  font-size: 50px;
+  margin-bottom: 10px; }
