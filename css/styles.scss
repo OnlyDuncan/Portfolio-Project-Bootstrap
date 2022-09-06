@@ -58,11 +58,22 @@ body {
     }
 }
 
-h1, .entryHeader1 {
+.entryHeader1 {
     font-size: 75px;
 }
 
-h3, .entryHeader2 {
+.entryHeader2 {
     font-size: 50px;
     margin-bottom: 10px;
+}
+
+.currentShowsHeader {
+    font-size: 30px;
+    color: black;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
 }
