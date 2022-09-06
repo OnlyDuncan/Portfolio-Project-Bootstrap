@@ -46,12 +46,8 @@ body {
     background-color: rgba(0, 0, 0, 0.5);
     margin-bottom: 5px; }
 
-.entryHeader1 {
-  font-size: 75px; }
-
-.entryHeader2 {
-  font-size: 50px;
-  margin-bottom: 10px; }
+.currentShowsSection {
+  border-style: solid; }
 
 .currentShowsHeader {
   font-size: 30px;
