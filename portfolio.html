@@ -14,6 +14,17 @@
     <title>Duncan Payne Artist Website</title>
 </head>
 
+<style>
+    body {
+        position: relative;
+    }
+
+    ul.nav-pills {
+    top: 20px;
+    position: fixed;
+    }
+</style>
+
 <body>
 
     <header class="jumbotron jumbotron-fluid">
@@ -47,6 +58,80 @@
             </div>
         </div>
     </nav>
+    <div class="container">
+        <div class="row mx-auto">
+            <div id="list-example" class="list-group col-sm-3">
+                <a class="list-group-item list-group-item-action" href="#list-item-1">Traditional Paintings</a>
+                <a class="list-group-item list-group-item-action" href="#list-item-2">Sculptures and Installation</a>
+                <a class="list-group-item list-group-item-action" href="#list-item-3">Performance and Kinetic Art</a>
+                <a class="list-group-item list-group-item-action" href="#list-item-4">Other</a>
+            </div>
+            <div data-spy="scroll" data-target="#list-example" data-offset="0" class="col-sm-9" style="height: 500px; overflow-y: scroll">
+                <div class="row mx-auto">
+                    <h4 class="col-sm-12 mx-auto" id="list-item-1">Traditional Paintings</h4>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#TheBlackEgg"><img class="img-fluid" style="height: 150px" src="img/The Black Egg.jpeg"></button>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#GrievingHearts"><img class="img-fluid" style="height: 150px" src="img/Grieving Hearts.jpeg"></button>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#ThePunishmentOfNarcissus"><img class="img-fluid" style="height: 150px" src="img/The Punishment of Narcissus.jpeg"></button>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#StudyOfGoya'sSaturnDevouringHisSon"><img class="img-fluid" style="height: 150px" src="img/Study of Goya's Saturn Devouring His Son.jpeg"></button>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#FloatingInBlue"><img class="img-fluid" style="height: 150px" src="img/Floating in Blue.jpeg"></button>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#InfernoCanto1"><img class="img-fluid" style="height: 150px" src="img/Inferno, Canto 1.jpeg"></button>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#Orpheus"><img class="img-fluid" style="height: 150px" src="img/Orpheus.jpeg"></button>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#TheRapture"><img class="img-fluid" style="height: 150px" src="img/The Rapture.jpeg"></button>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#Untitled"><img class="img-fluid" style="height: 150px" src="img/Untitled.jpeg"></button>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#LiquescenceAndLethe"><img class="img-fluid" style="height: 150px" src="img/Liquescence and Lethe.jpeg"></button>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#OriginalSin"><img class="img-fluid" style="height: 150px" src="img/Original Sin.JPG"></button>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#Reflection"><img class="img-fluid" style="height: 150px" src="img/Reflection.JPG"></button>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#DivinePhantasm"><img class="img-fluid" style="height: 150px" src="img/Divine Phantasm.jpg"></button>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#BeyondThePale"><img class="img-fluid" style="height: 150px" src="img/Beyond The Pale.jpg"></button>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#SelfPortrait"><img class="img-fluid" style="height: 150px" src="img/Self Portrait.JPG"></button>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#SheWhoInvites"><img class="img-fluid" style="height: 150px" src="img/She Who Invites.jpg"></button>
+                </div>
+                <div class="row mx-auto">
+                    <h4 class="col-sm-12 mx-auto" id="list-item-2">Sculptures and Installation</h4>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#Humanity"><img class="img-fluid" style="height: 150px" src="img/Humanity.jpeg"></button>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#LoversMask"><img class="img-fluid" style="height: 150px" src="img/Lovers Mask.jpeg"></button>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#HermitMask"><img class="img-fluid" style="height: 150px" src="img/Hermit Mask.jpeg"></button>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#FoolMask"><img class="img-fluid" style="height: 150px" src="img/Fool Mask.jpeg"></button>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#DevilMask"><img class="img-fluid" style="height: 150px" src="img/Devil Mask.jpeg"></button>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#ButterfliesDrinkBlood"><img class="img-fluid" style="height: 150px" src="img/Butterflies Drink Blood 3.jpeg"></button>
+                </div>
+                <div class="row mx-auto">
+                    <h4 class="col-sm-12 mx-auto" id="list-item-3">Performance and Kinetic Art</h4>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#Sleep"><img class="img-fluid" style="height: 150px" src="img/Sleep 5.jpeg"></button>
+                </div>
+                <div class="row mx-auto">
+                    <h4 class="col-sm-12 mx-auto" id="list-item-4">Other</h4>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#AbattoirChromia"><img class="img-fluid" style="height: 150px" src="img/Abattoir Chromia.jpg"></button>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#AbattoirNoir"><img class="img-fluid" style="height: 150px" src="img/Abattoir Noir.jpg"></button>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#LeMat"><img class="img-fluid" style="height: 150px" src="img/Le Mat.jpeg"></button>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#LostInTimeAndSpace2"><img class="img-fluid" style="height: 150px" src="img/Lost in Time and Space 2.jpg"></button>
+                    <button class="col-sm-4 border-0 bg-white pb-2" type="button" data-toggle="modal" data-target="#LostInTimeAndSpace1"><img class="img-fluid" style="height: 150px" src="img/Lost in Time and Space 1.jpg"></button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="modal fade" id="TheBlackEgg" tabindex="-1" role="dialog" aria-labelledby="artModal" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="ture">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <img class="img-fluid" style="height: 500px" src="img/The Black Egg.jpeg">
+                        </div>
+                        <div class="col-sm-8">
+                            <p>Buh buh buh</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <footer>
     </footer>

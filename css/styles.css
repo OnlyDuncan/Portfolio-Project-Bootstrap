@@ -59,3 +59,7 @@ body {
 
 img {
   border-style: solid; }
+
+.bottom-padding {
+  padding: 0 0 50px;
+  border-bottom: 1px ridge; }
