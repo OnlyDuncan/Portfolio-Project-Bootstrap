@@ -43,6 +43,7 @@ body {
   background-color: rgba(0, 0, 0, 0); }
   .containerEntry .btn {
     background-color: rgba(0, 0, 0, 0.5);
+    width: 140px;
     margin-bottom: 15px; }
 
 .currentShowsSection {
@@ -66,3 +67,8 @@ img {
 
 .modal-header {
   background-color: gray; }
+
+.card {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
